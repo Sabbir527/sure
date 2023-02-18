@@ -1,0 +1,18 @@
+POST /method/auth.login HTTP/1.1
+Host: b-api.facebook.com
+user-agent: Dalvik/2.1.0 (Linux; U; Android 10; Infinix X690B Build/QP1A.190711.020) [FBAN/MobileAdsManagerAndroid;FBAV/236.0.0.24.108;FBBV/405428495;FBRV/0;FBLC/en_US;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X690B;FBSV/10;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.75,width=720,height=2329};FB_FW/1;]
+accept-encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+content-type: application/x-www-form-urlencoded
+x-fb-sim-hni: 29732
+x-fb-connection-type: unknown
+Authorization: OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32
+api_key: 8114af471d039628db5c68cb127af936
+x-fb-net-hni: 37928
+x-fb-connection-bandwidth: 24874267
+x-fb-connection-quality: EXCELLENT
+x-fb-friendly-name: authenticate
+x-fb-http-engine: Liger
+Content-Length: 793
+

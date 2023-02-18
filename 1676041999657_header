@@ -1,0 +1,13 @@
+POST /method/auth.login HTTP/1.1
+Host: b-api.facebook.com
+User-Agent: [FBAN/FB4A;FBAV/78.0.0.16.67;FBBV/30529816;FBDM/{density=2.75,width=720,height=2329};FBLC/en_US;FBCR/MTN NG;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix_X625D;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Authorization: OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32
+X-FB-Friendly-Name: authenticate
+X-FB-Connection-Type: unknown
+Content-Type: application/x-www-form-urlencoded
+X-FB-HTTP-Engine: Liger
+Content-Length: 379
+

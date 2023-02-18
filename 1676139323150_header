@@ -1,0 +1,28 @@
+HTTP/1.1 400 Bad Request
+Content-Encoding: gzip
+Vary: Origin
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: https://facebook.com
+x-fb-rlafr: 0
+Content-Type: application/json; charset=UTF-8
+WWW-Authenticate: OAuth "Facebook Platform" "invalid_request" "Invalid username or password"
+Content-Disposition: attachment; filename="68C4A08C1676139279.jpg"
+X-Frame-Options: DENY
+facebook-api-version: v1.0
+Strict-Transport-Security: max-age=15552000; preload
+Pragma: no-cache
+Cache-Control: no-store
+Expires: Sat, 01 Jan 2000 00:00:00 GMT
+x-fb-request-id: ASjXRfDwvlbHfJwoLheiJeY
+x-fb-trace-id: C1/j9VnNefT
+x-fb-rev: 1006949215
+X-FB-Debug: QbSShiAxSeMDfs7Xttf+PWfAJdEb1OKD7nfHEFJs3Wf0wQV/jsaoflV17xdvAdD+Q7ybA1d/yg0PVo9So3TkZQ==
+Date: Sat, 11 Feb 2023 18:14:39 GMT
+Priority: u=3,i
+X-FB-Client-IP-Forwarded: 182.185.59.235
+X-FB-Server-Cluster-Forwarded: mrs2c01
+X-FB-Connection-Quality: MODERATE; q=0.3, rtt=183, rtx=0, c=10, mss=1380, tbw=141, tp=-1, tpl=-1, uplat=665, ullat=150
+Alt-Svc: h3=":443"; ma=86400
+Connection: keep-alive
+Content-Length: 235
+

@@ -1,0 +1,17 @@
+POST /auth/login HTTP/1.1
+User-Agent: Davik/2.1.0 (Linux; U; Android 11.0.1; Infinix X695 Build/RP1A.200720.011) [FBAN/FB4A;FBAV/374.0.0.14.829;FBBV/244174312;FBDM/{density=3.0,width=1080,height=2328};FBLC/en_GB;FBRV/466929560;FBCR/Zong;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X695;FBSV/11;FBOP/19;FBCA/arm64-v8a:armeabi-v7a:armeabi;]
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Authorization: OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32
+Host: b-graph.facebook.com
+X-FB-Connection-Bandwidth: 23660518
+X-FB-Net-HNI: 27886
+X-FB-SIM-HNI: 29477
+X-FB-Connection-Quality: EXCELLENT
+X-FB-Connection-Type: WIFI.LTE
+X-Tigon-Is-Retry: False
+Content-Type: application/x-www-form-urlencoded
+X-FB-HTTP-Engine: Liger
+Content-Length: 685
+
